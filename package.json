@@ -12,7 +12,8 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "recharts": "^3.2.1",
-    "react-globe.gl": "^2.36.0"
+    "react-globe.gl": "^2.36.0",
+    "@cloudflare/kv-asset-handler": "^0.3.0" 
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
